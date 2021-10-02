@@ -19,5 +19,6 @@ The data is classified in date/time and the passengers travelling per month
 
 [![goodReads Badge](https://github-readme-stats.vercel.app/api/top-langs/?username={geehaad})]
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={geehaad})" />
 
 
