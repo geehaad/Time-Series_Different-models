@@ -8,11 +8,6 @@ understand Time series forecasting with different models in python, and fine tun
 <li> Apply Facebook prophet to the same dataset.</li>
 </ol>
 
-<h2>The dataset</h2>
-
-Build a model to forecast the demand (passenger traffic) in Airplanes.<br> 
-The data is classified in date/time and the passengers travelling per month
-<h2>What is Time series analysis?</h2>
 
 A. Time Series is a series of observations taken at specified time intervals usually equal intervals. <br>
  
