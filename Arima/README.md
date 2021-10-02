@@ -16,7 +16,9 @@
 is a very powerful model for forecasting time series data, the data preparation and parameter tuning processes end up being really time consuming. <br>
 Before implementing ARIMA, you need to make the series stationary, and determine the values of p and q using the plots we discussed above. <br>
 Auto ARIMA makes this task really simple for us as it eliminates steps 3 to 6 we saw in the previous section.<br>
+
 <ol> 
+  
   Below are the steps you should follow for implementing auto ARIMA: 
 
   <li> Load the data: This step will be the same. Load the data into your notebook. </li> 
