@@ -19,8 +19,7 @@ Auto ARIMA makes this task really simple for us as it eliminates steps 3 to 6 we
 
 <ol> 
   
-  Below are the steps you should follow for implementing auto ARIMA: 
-
+  <h3>Below are the steps you should follow for implementing auto ARIMA: </h3>
   <li> Load the data: This step will be the same. Load the data into your notebook. </li> 
   <li> Preprocessing data: The input should be univariate, hence drop the other columns. </li>
   <li> Fit Auto ARIMA: Fit the model on the univariate series. </li> 
